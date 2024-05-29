@@ -1,10 +1,16 @@
 .venv/
 .vscode/
 1uloha/aproximace.ipynb
+1reseni/data
+1reseni/models
+1reseni/experiment_s_funkce/data_exp
+1reseni/experiment_s_funkce/img_result
+1reseni/experiment_s_funkce/__pycache__
 
-4 uloha/
-Reseni1/
+3 uloha/data_sigmalu
+3 uloha/scr/Diagnostics.xlsx
+3 uloha/scr/RhythmNames.xlsx
+
 U2_C2_P2/
 Uloha_2_cast_2/
-Uloha_2/
-uloha3/
+Uloha2/
