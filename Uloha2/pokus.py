@@ -1,3 +1,4 @@
+# prvni cast ukolu
 import matplotlib.pyplot as plt
 from gen_dat import gen_ruz
 from src.model import train_model, evaluate_model
@@ -20,7 +21,7 @@ def plot_results(x, ys_pred_ns, filename, title):
     plt.show()
 
 
-pocet_f = 1
+pocet_f = 3
 scaler_x, x_scaled, y_all, y_puvodni = gen_ruz(pocet_f)
 
 config = {"layers":3, "neurons":64, "activation": "sigmoid"}
